@@ -66,8 +66,8 @@ cadastro-alunos-springboot/
 
 ### 🔹 Passos
 
-1. Clone este repositório:
-   git clone https://github.com/wandersonjafe/cadastro-alunos-springboot.git
+1.Clone este repositório:
+git clone https://github.com/wandersonjafe/cadastro-alunos-springboot.git
    
 2.Acesse a pasta do projeto:
 
